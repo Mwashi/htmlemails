@@ -1,0 +1,7 @@
+JSON
+
+Easy to read. JSON.parse, leaner than xml, best format when working with data, javascript objects almost same as json, but have differences
+
+
+
+Json Declaration; everythinf is single quoted, underscores between spaces, json object is a string with value key pairs
